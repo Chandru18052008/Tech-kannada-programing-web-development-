@@ -1,0 +1,16 @@
+#div1{
+	background-color: red;
+}
+#div2{
+	background-color: blue;
+}
+
+.boy{
+	text-transform: capitalize;
+}
+.yes{
+	text-decoration: underline;
+}
+.no{
+	text-decoration: none;
+}
